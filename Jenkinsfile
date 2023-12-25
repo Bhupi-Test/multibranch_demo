@@ -11,7 +11,7 @@ stage('clone repo')
 {
 steps
 {
-git branch: 'dev', url: 'https://github.com/Bhupi-Test/Multi_Branch_project.git'
+git branch: 'dev', url: 'https://github.com/Bhupi-Test/multibranch_demo.git'
 }
 }
 }
